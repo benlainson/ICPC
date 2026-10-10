@@ -19,6 +19,6 @@ def frequencyNum():
         if currFreq > highestFreq:
                 highestFreq = currFreq
                 highestVal = curr
-    print("Highest value: ",highestVal)
+    print("Highest frequencyvalue: ",highestVal)
 
 frequencyNum()
